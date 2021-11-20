@@ -15,11 +15,11 @@ ffmpeg/ffplay是当今多媒体领域的王者，很多很多的人想研究学�
 
 pdf档下载地址：https://files.cnblogs.com/mcodec/ffdoc.7z
 
-或者
+或者https://github.com/yzyone/mcodec/blob/main/files/ffdoc.7z
 
 源代码下载地址：https://files.cnblogs.com/mcodec/ffsrc.7z
 
-或者
+或者https://github.com/yzyone/mcodec/blob/main/files/ffsrc.7z
 
 分类: ffmpeg/ffplay
 
